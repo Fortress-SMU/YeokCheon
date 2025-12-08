@@ -13,9 +13,25 @@
 
 </div>
 
-> 게임 스토리 변경 예정  
-> 게임 스토리 변경 예정  
-> 게임 스토리 변경 예정  
+> 백 년 전, 환웅과 웅녀의 혼인을 부정하며  
+> 지상의 질서를 뒤흔들었던 천위단의 반란  
+>  
+> 그들은 진압되었으나, 소멸하지 않았다  
+>  
+> 단군 5대의 시대  
+> 천위단의 잿빛 그림자가 다시금 세상을 뒤덮는다  
+>  
+> 환웅과 웅녀의 피를 잇는 진헌  
+> 마을을 구하기 위해 수호룡을 찾아 나선 그가 마주한 것은  
+> 수호자가 아닌, 천위단에 의해 광기에 물든 용이었다  
+>  
+> 오염된 하늘의 의지,  
+> 그리고 미쳐버린 수호신 앞에서  
+>  
+> 곰의 후예는 선택해야 한다  
+> 무릎 꿇을 것인가, 맞설 것인가  
+>  
+> 하늘을 거스르는 자의 전설이 지금 시작된다  
 
 <br>
 
@@ -31,7 +47,7 @@
 | <img src="images/cover.png" width="100%" height="auto"/> |
 | 일반 몬스터 처치 |
 
-[![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/BFCqoggFvg0?si=WVYX4Qb5STY-KypN)
 
 <br>
 
@@ -43,7 +59,7 @@
 | <img src="images/stage1Clone.gif" width="100%" height="auto"/> |
 | 분신 소환 |
 
-[![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/O0mS1DqJELk?si=j2CJLCFqCKM8ar9y)
+[![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/05LBwiTqaT4?si=vw51JYOlad1EaJYw)
 
 <br>
 
@@ -55,7 +71,7 @@
 | <img src="images/stage2Lightning.gif"/> |
 | 번개 소환 |
 
-[![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/A_qTdIbB1ro?si=4t7LdJWvnvW3460o)
+[![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/d0PrEGdBxME?si=_rL6kneDub9J6r8u)
 
 </div>
 
@@ -69,6 +85,7 @@
 | 이동 | W / A / S / D |
 | 점프 | 스페이스바 |
 | 회피 | Shift |
+| 조준 | Ctrl |
 | 근접 공격 | 마우스 좌클릭 |
 | 원거리 공격 | 마우스 우클릭 |
 
