@@ -1,10 +1,12 @@
 # 역천: _The Sky Breaker_
 
-## 수정 예정
+## <수정 예정>
 
 <div align="center">
+  
+![](https://img.shields.io/badge/2025_2학기_상명대_게임전공_게임개발공모전-darkblue?style=for-the-badge)![](https://img.shields.io/badge/우수상-yellow?style=for-the-badge)
 
-![](https://img.shields.io/badge/2025_1학기_상명대_게임전공_게임개발공모전-darkblue?style=for-the-badge)![](https://img.shields.io/badge/우수상-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/2025_1학기_상명대_게임전공_게임개발공모전-blue?style=for-the-badge)![](https://img.shields.io/badge/우수상-yellow?style=for-the-badge)
 
 
 [<img src="images/cover.png" width="100%" height="auto">]()
@@ -100,7 +102,6 @@
 | <img src="https://github.com/JoJunHwan.png" width="60" height="60"> | 조준환 | 게임전공 | 기획 & 스토리 | 주인공 **진헌** | [@JoJunHwan](https://github.com/JoJunHwan) |
 | <img src="https://github.com/DrugK.png" width="60" height="60"> | 강민우 | 휴먼AI공학전공<br>게임전공 | 게임 컨셉 디자인 | 보스 몬스터 **백호** | [@DrugK](https://github.com/DrugK) |
 | <img src="https://github.com/YunseoC.png" width="60" height="60"> | 최윤서 | 한일문화콘텐츠전공<br>게임전공 | 레벨 디자인 | 스테이지 & 몬스터 | [@YunseoC](https://github.com/YunseoC) |
-| <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="60" height="60"> | 이예랑 | 컴퓨터과학전공 | 사운드 디자인 | 몬스터 | [@???](https://github.com) |
 
 <div align="center">
 
